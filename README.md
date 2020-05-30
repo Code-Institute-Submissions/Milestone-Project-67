@@ -1,39 +1,84 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Milestone project 1 
+## Build a website for a Hair salon
 
-Welcome USER_NAME,
+There are many hair salons out there that providing the service and a good clean website can make a big difference. 
+Most of the people care about how they look and sometimes picky about who is touching their hairs, and if they find 
+a good hair salon that can feel comfortable and get satisfactory hair service they stick to it for a lifetime. 
+  
+The aim of this website is to bring a nice online presentation of the type of services that the hair salon can provide. 
+And making people feel comfortable being a member of this hair salon. This will be obviously good for the owner and hair salon team members 
+which can increase the number of customers and be competitive in the market.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+> A hair style satisfaction stars from a website
 
-## Gitpod Reminders
+## UX
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This website is going to be for a hair salon business owner who would like to increase their popularity. 
+The owner was in this business for a while now and they have their regular customers, 
+but they have realized that the number of their new customers is decreasing over the years. 
+So, they are thinking having a website can help them attract new customers.
 
-`python3 -m http.server`
+The aim of this project is to provide a good online presentation which can lead to having more new customers. 
+The webpage is going to present the hair salon as a professional environment. 
+It is going to give a good overview of the type of services that hair salon can provide. 
+It will present the hair salon team which can induce a friendly feeling to new customers. 
+It will provide good contact information and how to get to the place.
 
-A blue button should appear to click: *Make Public*,
+* People would like to feel that can get professional service in a hairsalon.
+* My partner, she is a saying, she wants to see how the hairdresser looks like. 
+  This can be achieved with a good presentation of the team.
+* As a new customer, I would like to see the previous results of their work. 
+  This can be achieved with an image gallery or reviews from the regular customers
 
-Another blue button should appear to click: *Open Browser*.
+## Features
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+This project is going to be consist of five main sections:
 
-A blue button should appear to click: *Make Public*,
+1. Home page (Salon page).
+2.	Service page
+3.	Team page
+4.	Gallery page
+5.	Contact info page
 
-Another blue button should appear to click: *Open Browser*.
+## Existing Features
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+**The home page (Salon page)**
 
-## Updates Since The Instructional Video
+The home page allows user to see how the hair salon environment is look like and give them a warm and welcoming feeling.
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+**Service section**
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+In this section, the type of services that can provide will be presented with a summary of the services in each section.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+**Team section**
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+In this section, the hair salon team salon is going to introduce with a picture, skills that they have and languages that they can speak.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+**Gallery image**
 
---------
+This section will provide an overview example of the hair service that has done.
 
-Happy coding!
+## Features Left to Implement
+
+There would be two possible features to add in the future:
+
+* Normally kids are afraid of going to the hairdresser and this makes it a nightmare for parents to go to the hairdresser, 
+it is good to show that hairdresser is kids’ friendly area.
+* Membership program, for example with the membership it is possible to get certain benefits like a discount or get special offers.
+* Working with us section, that people which looking for training and a future job can contact through this part.
+
+## Technologies Used
+
+## Testing
+
+## Deployment
+
+## Credits
+
+## Content
+
+## Media
+
+## Acknowledgements
+
+
