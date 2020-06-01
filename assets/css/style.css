@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 body {
-  background-color: gray;
+  background-color: lightgray;
 }
 
 /* -------------------------------------------------------------------- navigation */
@@ -9,7 +9,8 @@ body {
 .navbar {
   font-family: "Exo", sans-serif;
   font-size: 18px;
-  font-style: bold;
+  font-weight: 400;
+  letter-spacing: 1px;
 }
 
 #logo {
@@ -25,6 +26,16 @@ body {
   margin-right: 7px;
 }
 
+.dropdown-menu a{
+    font-family: "Exo", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.dropdown-menu a:hover{
+    color: #d80d1e;
+}
+
 /* -------------------------------------------------------------------- footer */
 
 .footer-main {
@@ -32,14 +43,12 @@ body {
   text-align: center;
   color: #fafafa;
   background-color: rgb(0, 0, 0);
-  
 }
 
-.footer-section{
-    margin-top: 15px;
-    margin-bottom: 9px;
-    display: inline-block;
-    
+.footer-section {
+  margin-top: 15px;
+  margin-bottom: 9px;
+  display: inline-block;
 }
 
 .text-uppercase {
@@ -52,17 +61,15 @@ body {
   color: #fafafa;
 }
 
-.working-hours p{
-    display: inline-block;
-    margin-bottom: 0; 
-    margin-right: 15px;
+.working-hours p {
+  display: inline-block;
+  margin-bottom: 0;
+  margin-right: 15px;
 }
 
-.working-hours span{
-    letter-spacing: 2px;
+.working-hours span {
+  letter-spacing: 2px;
 }
-
-
 
 .hvr-icon-fade:active .hvr-icon,
 .hvr-icon-fade:focus .hvr-icon,
@@ -90,3 +97,90 @@ body {
 .footer-section-social li a:hover {
   background-color: #d80d1e;
 }
+
+/* -------------------------------------------------------------------- call out */
+
+.callout {
+  height: 87vh;
+  background: url("../images/callout-background-img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-position: 50% 40%;
+  position: relative;
+}
+
+.opaque-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.jumbotron {
+  font-family: "Exo", sans-serif;
+  font-size: 22px;
+  letter-spacing: 1px;
+  background-color: transparent;
+  text-align: center;
+  color: #fafafa;
+}
+
+.callout-call {
+  margin-top: 35px;
+}
+
+.hr-line {
+  width: 55px;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.hr-line--white {
+  border: 2px solid #fafafa;
+}
+
+.service-callout-section {
+  font-family: "Exo", sans-serif;
+  color: #fafafa;
+}
+
+.service-header {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  margin-top: 15px;
+}
+
+.service-items {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.service-items a {
+  text-decoration: none;
+  
+
+}
+
+.service-items p {
+  font-size: 18px;
+  margin-top: 5px;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.service-items a p:hover {
+  color: #d80d1e;
+}
+
+@media(max-width: 992px){
+    .service-items img{
+        height: 125px;
+    }
+}
+
