@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  background-color: gray;
+}
+
+/* -------------------------------------------------------------------- navigation */
+
+.navbar {
+  font-family: "Exo", sans-serif;
+  font-size: 18px;
+  font-style: bold;
+}
+
+#logo {
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  margin-left: 15px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.nav-link {
+  margin-right: 7px;
+}
+
+/* -------------------------------------------------------------------- footer */
+
+.footer-main {
+  font-family: "Exo", sans-serif;
+  text-align: center;
+  color: #fafafa;
+  background-color: rgb(0, 0, 0);
+  
+}
+
+.footer-section{
+    margin-top: 15px;
+    margin-bottom: 9px;
+    display: inline-block;
+    
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.map-address a {
+  width: 100%;
+  text-decoration: none;
+  color: #fafafa;
+}
+
+.working-hours p{
+    display: inline-block;
+    margin-bottom: 0; 
+    margin-right: 15px;
+}
+
+.working-hours span{
+    letter-spacing: 2px;
+}
+
+
+
+.hvr-icon-fade:active .hvr-icon,
+.hvr-icon-fade:focus .hvr-icon,
+.hvr-icon-fade:hover .hvr-icon {
+  color: #d80d1e;
+}
+
+.footer-section-social li a {
+  width: 32px;
+  height: 32px;
+  background-color: #8f8f8f;
+  color: #fafafa;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 16px;
+  margin: 0;
+  display: table-cell;
+  vertical-align: middle;
+  transition: all 0.35s ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+}
+
+.footer-section-social li a:hover {
+  background-color: #d80d1e;
+}
