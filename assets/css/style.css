@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 body {
-  background-color: lightgray;
+  background-color: #fafafa;
 }
 
 /* -------------------------------------------------------------------- navigation */
@@ -43,6 +43,7 @@ body {
   text-align: center;
   color: #fafafa;
   background-color: rgb(0, 0, 0);
+
 }
 
 .footer-section {
@@ -130,6 +131,11 @@ body {
   color: #fafafa;
 }
 
+.jumbotron span{
+    color:#d80d1e;
+    font-weight: 500;
+}
+
 .callout-call {
   margin-top: 35px;
 }
@@ -181,6 +187,61 @@ body {
 @media(max-width: 992px){
     .service-items img{
         height: 125px;
+    }
+}
+
+/* -------------------------------------------------------------------- services */
+
+.services{
+    margin-bottom: 35px;
+    font-family: "Exo", sans-serif;
+    font-size: 20px;
+    
+}
+
+.services-header{
+    margin: 75px 0px;
+    text-align: center;
+    
+}
+
+
+.services-header-section .value{
+    width: 90%;
+    margin-top: 15px;
+}
+
+@media(max-width: 992px){
+    .services{
+    text-align: justify;
+    font-family: "Exo", sans-serif;
+    
+}
+    
+    .services-header{
+    text-align: center;
+    margin: 25px 0px;
+          
+}
+
+.services-header-section .key{
+    text-align: center;
+    
+}
+
+.services-header-section .value{
+    width: 100%;
+    margin-top: 15px;
+}
+    
+    
+    .service-inline-image{
+       
+        display: block;
+        margin:25px auto;
+
+        
+        
     }
 }
 
