@@ -245,3 +245,50 @@ body {
     }
 }
 
+/* -------------------------------------------------------------------- Team */
+
+.personel-img{
+    
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    background-color: #96a1ad;
+}
+
+.team-info{
+    list-style: none;
+    padding: 0;
+    text-align: left;
+}
+.team-name{
+    margin:35px 0px;
+}
+
+.progress{
+    width: 50%;
+    height: 25px;
+    display: inline-flex;
+    margin-top: 0;
+    vertical-align: middle;
+    background-color: #96a1ad;
+}
+
+.progress div{
+    color:rgb(0, 0, 0);
+    font-size: 15px;
+}
+
+.blockquote{
+    text-align: justify;
+}
+
+@media(max-width: 992px){
+    
+.team-name{
+    margin:35px auto;
+    text-align: center;
+}
+    
+}
+
+
