@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
 
 body {
   background-color: #fafafa;
@@ -314,6 +316,79 @@ body {
 .carousel-inner img{
     height: 70vh;
 }
+
+/* -------------------------------------------------------------------- Contact US */
+
+.address-contact{
+    text-align: center;
+    
+}
+
+.opening-hours-contact a,
+.opening-hours-contact h4 {
+text-decoration: none;
+text-align: center;
+color: inherit;  
+}
+
+.message-section h4{
+    text-align: center;
+}
+
+.contact-section{
+    display: inline-grid;
+    justify-items: center;
+}
+
+.opening-hours-contact{
+display: inline-grid;
+align-items: center;
+margin: 15px 0;
+
+}
+
+.map-contact{
+  background: url("../images/map.png");
+  width: 300px;
+  height: 285px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  position: relative;  
+}
+
+
+.map-contact a::before {
+  font-family: "FontAwesome";  
+  content: attr(data-fa-icon);
+  color: rgb(0, 0, 0);
+  display: block;
+  position: absolute;
+  top: 145px;
+  left: 185px;
+}
+
+.map-contact a::after {
+  content: "we are here!";
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+  display: block;
+  position: absolute;
+  top: 130px;
+  left: 150px;
+}
+
+.map-contact a:hover:before,
+.map-contact a:hover:after {
+  color: #d80d1e;  
+}
+
+
+
+
+
 
 
 
