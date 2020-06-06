@@ -18,34 +18,34 @@
 <!------------------------------------------------------------------------------ navigation -->
     <header>
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-			<a class="navbar-brand" id="logo" href="#">Hair Salon</a>
+			<a class="navbar-brand" id="logo" href="index.html">Hair Salon</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 			    <span class="navbar-toggler-icon"></span>
 			  </button>
 			<div class="collapse navbar-collapse justify-content-end mr-3" id="navbarNavDropdown">
 				<ul class="navbar-nav">
 					<li class="nav-item">
-						<a class="nav-link" href="#">Home</a>
+						<a class="nav-link" href="index.html">Home</a>
 					</li>
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+						<a class="nav-link dropdown-toggle" href="index.html" id="navbarDropdownMenuLink" role="button"
 							data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							Services
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-							<a class="dropdown-item" href="#"><img src="assets/images/style-icon-img.png" height="35" alt="Style your hair"> Style your hair</a>
-							<a class="dropdown-item" href="#"><img src="assets/images/color-icon-img.png" height="35" alt="Color your hair"> Color your hair</a>
-							<a class="dropdown-item" href="#"><img src="assets/images/treat-icon-img.png" height="35" alt="Treat your hair"> Treat your hair</a>
+							<a class="dropdown-item" href="style-your-hair.html"><img src="assets/images/style-icon-img.png" height="35" alt="Style your hair"> Style your hair</a>
+							<a class="dropdown-item" href="color-your-hair.html"><img src="assets/images/color-icon-img.png" height="35" alt="Color your hair"> Color your hair</a>
+							<a class="dropdown-item" href="treat-your-hair.html"><img src="assets/images/treat-icon-img.png" height="35" alt="Treat your hair"> Treat your hair</a>
 						</div>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Team</a>
+						<a class="nav-link" href="team.html">Team</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Gallery</a>
+						<a class="nav-link" href="gallery.html">Gallery</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link active" href="#">Contact Us<span class="sr-only">(current)</span></a>
+						<a class="nav-link active" href="contact-us.html">Contact Us<span class="sr-only">(current)</span></a>
 					</li>
 				</ul>
 			</div>
@@ -55,8 +55,8 @@
 
 <!------------------------------------------------------------------------------ Contact US -->
 
-<section class="container-fluid services">
-	<div class="row services-header no-gutters">
+<section class="container-fluid main-section">
+	<div class="row main-section-header no-gutters">
 		<div class="col-10 offset-1">
 			<h2>Contact US</h2>
 			<hr class="hr-line">
@@ -66,7 +66,8 @@
 		<div class="row no-gutters">
 			<div class="col-10 offset-1 offset-sm-0 col-sm-6 mb-5 message-section">
 				<h4><i class="far fa-envelope"></i> Please write to us!</h4>
-				<p><small>We would love to hear back from you for any comment or remark to improve our services.</small></p>
+				<p><small>We would love to hear back from you for any comment or remark to improve our services.</small>
+				</p>
 				<form>
 					<div class="form-group">
 						<label for="Name">Name</label>
@@ -76,31 +77,29 @@
 							<label for="Email">Email</label>
 							<input type="email" name="email" class="form-control" id="Email" placeholder="optional">
                     </div>
-							<div class="form-group">
-								<label for="Name">Comment</label>
-								<textarea class="form-control" id="Comment" name="comment" rows="5" placeholder="We value your comments"></textarea>
-							</div>
-							<button type="submit" class="form-control btn btn-outline-secondary btn-lg">Send</button>
+						<div class="form-group">
+							<label for="Name">Comment</label>
+							<textarea class="form-control" id="Comment" name="comment" rows="5" placeholder="We value your comments"></textarea>
+						</div>
+					<button type="submit" class="form-control btn btn-outline-secondary btn-lg">Send</button>
 				</form>
 			</div>
 			<div class="contact-section col-10 offset-1 offset-sm-0 col-sm-6">
 				<div class="address-contact">
-                <h4><i class="far fa-clock" aria-hidden="true"></i> Openning hours</h4>
-				<p>Working everyday:08:00-17:00</p>
+					<h4><i class="far fa-clock" aria-hidden="true"></i> Openning hours</h4>
+					<p>Working everyday: 08:00-17:00</p>
 				</div>
-					
-				
 				<section class="opening-hours-contact">
-					<a href="#" class="hvr-icon-fade">
+					<a href="https://www.google.se/maps/@59.3429218,18.0509776,17z" target="_blank" class="hvr-icon-fade">
 						<h4 class="">
 							<i class="fas fa-map-marker-alt hvr-icon" aria-hidden="true"></i> Address
 						</h4>
-						<p>Odengatan,113 22 Stockholm, Sweden</p>                        
+						<p>Odengatan,113 22 Stockholm, Sweden</p>
 					</a>
-                    <h4><i class="fa fa-phone" aria-hidden="true"></i> +46 555 112233</h4>
+					<h4><i class="fa fa-phone" aria-hidden="true"></i> +46 555 112233</h4>
 				</section>
 				<div class="map-contact">
-					<a href="#" data-fa-icon="&#xf276"></a>
+					<a href="https://www.google.se/maps/@59.3429218,18.0509776,17z" target="_blank" data-fa-icon="&#xf276"></a>
 				</div>
 			</div>
 		</div>
@@ -117,7 +116,7 @@
 				<div class="col-10 offset-1 offset-sm-0 col-sm-4 footer-section">
 					<div class="row">
 						<div class="col-12 map-address">
-							<a href="#" class="hvr-icon-fade">
+							<a href="https://www.google.se/maps/@59.3429218,18.0509776,17z" target="_blank" class="hvr-icon-fade">
 								<h4 class="text-uppercase">
 									<i class="d-block fas fa-map-marker-alt hvr-icon mb-3" aria-hidden="true"></i>Address
 								</h4>
@@ -129,7 +128,7 @@
 				<div class="col-10 offset-1 offset-sm-0 col-sm-4 footer-section">
 					<div class="row">
 						<div class="col-12 map-address">
-							<div href="#">
+							<div>
 								<h4 class="text-uppercase">
 									<i class="d-block far fa-clock mb-3" aria-hidden="true"></i>Openning hours</h4>
 								<div class="working-hours">
