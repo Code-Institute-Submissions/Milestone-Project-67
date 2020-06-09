@@ -69,6 +69,15 @@ it is good to show that hairdresser is kids’ friendly area.
 
 ## Technologies Used
 
+The following technologies have been used in this project:
+
+* HTML5
+* CSS3
+* Bootstrap4
+* Fontawsome4&5
+* Hover.css
+* Google font
+
 ## Testing
 
 ## Deployment
@@ -77,8 +86,40 @@ it is good to show that hairdresser is kids’ friendly area.
 
 ## Content
 
+The content of this project is written by me as the web designer, all the website, characters are imaginary and do not exist in the real world.
+
 ## Media
 
+The photos used in this site were obtained from websites with right for free to use, share or modify, even commercially:
+
+1. Callout background image [(callout-background-img.jpg)](https://www.goodfon.com/wallpaper/stylist-fingers-hairdresser-comb-scissors.html)
+2. Style your hair [(syle-img.jpg)](https://pixabay.com/photos/hair-marriage-bride-woman-whites-2089548/)
+3. Color your hair [(color-img.jpg)](https://pixabay.com/photos/pink-hair-hairstyle-women-young-1450045/)
+4. Treat your hair [(treat-img.jpg)](https://pixabay.com/photos/girl-woman-model-brunette-924868/)
+5. Style your hair icon [(style-icon-img.png)](https://freesvg.org/scissors-cut-hair)
+6. Color your hair icon [(color-icon-img.png)](https://www.needpix.com/photo/download/595920/blood-paint-splat-stain-free-vector-graphics-free-pictures-free-photos-free-images-royalty-free)
+7. Treat your hair icon [(treat-icon-img.png)](https://svgsilh.com/image/38673.html)
+8. Team image [(Remi.png)](https://pixabay.com/photos/woman-portrait-headshot-female-4525646/)
+9. Team image [(Olga.png)](https://pixabay.com/photos/business-woman-person-young-female-2180509/)
+10. Team image [(Harry.png)](https://unsplash.com/photos/cCvnG-937HE)
+11. Image gallery [(Gal-01.jpg)](https://unsplash.com/photos/yq2zyWLzaR0)
+12. Image gallery [(Gal-02.jpg)](https://unsplash.com/photos/A8WIBd73a6E)
+13. Image gallery [(Gal-03.jpg)](https://unsplash.com/photos/N57BXCt7LDU)
+14. Image gallery [(Gal-04.jpg)](https://unsplash.com/photos/lMMdMdsFP-c)
+15. Image gallery [(Gal-05.jpg)](https://unsplash.com/photos/W6cwaL7PMSw)
+16. Image gallery [(Gal-06.jpg)](https://unsplash.com/photos/J7Cf1Gch49E)
+17. Image gallery [(Gal-07.jpg)](https://unsplash.com/photos/tLKOj6cNwe0)
+18. Image gallery [(Gal-08.jpg)](https://unsplash.com/photos/ORCPTrkkezw)
+19. Image gallery [(Gal-09.jpg)](https://unsplash.com/photos/pZTVa_Gt1f8)
+
+
 ## Acknowledgements
+
+This project got inspiration from following websites:
+
+* https://www.peachstockholm.se/
+
+* https://harstudiosthlm.se/
+
 
 
