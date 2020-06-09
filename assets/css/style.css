@@ -329,7 +329,7 @@ body {
 }
 
 .contact-section {
-  display: inline-grid;
+  display: inline-block;
   justify-items: center;
 }
 
