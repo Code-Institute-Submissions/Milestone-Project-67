@@ -53,6 +53,7 @@ body {
   text-align: center;
   color: #fafafa;
   background-color: rgb(0, 0, 0);
+  padding-top:30px;
 }
 
 .footer-section {
@@ -161,7 +162,7 @@ body {
 .service-callout-section {
   font-family: "Exo", sans-serif;
   color: #fafafa;
-  margin: 25px 0px;
+  margin: 25px 0px 45px 0px;
 }
 
 .service-header {
@@ -181,7 +182,7 @@ body {
 
 .service-items p {
   font-size: 18px;
-  margin-top: 5px;
+  margin: 15px 0px 35px 0px;
   color: rgb(0, 0, 0);
   text-transform: uppercase;
   font-weight: bold;
