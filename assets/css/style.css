@@ -22,7 +22,6 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 32px;
   font-weight: 400;
-  margin-left: 15px;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
@@ -35,6 +34,7 @@ body {
   font-family: "Exo", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
+  /* padding: 5px; */
 }
 
 .dropdown-item.active,
@@ -53,7 +53,7 @@ body {
   text-align: center;
   color: #fafafa;
   background-color: rgb(0, 0, 0);
-  padding-top:30px;
+  padding-top: 30px;
 }
 
 .footer-section {
@@ -285,7 +285,7 @@ body {
     text-align: center;
   }
   .progress {
-  width: 50%;
+    width: 50%;
   }
 }
 
