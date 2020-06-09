@@ -329,8 +329,7 @@ body {
 }
 
 .contact-section {
-  display: inline-block;
-  justify-items: center;
+  text-align: center;
 }
 
 .opening-hours-contact {
@@ -349,6 +348,7 @@ body {
   -webkit-background-size: cover;
   -o-background-size: cover;
   position: relative;
+  margin: 0 auto;
 }
 
 .map-contact a::before {
