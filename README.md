@@ -92,28 +92,25 @@ The content of this project is written by me as the web designer, all the websit
 
 The photos used in this site were obtained from websites with right for free to use, share or modify, even commercially:
 
-1. Callout background image <a href="https://www.goodfon.com/wallpaper/stylist-fingers-hairdresser-comb-scissors.html" target="_blank">(callout-background-img.jpg)</a>
-2. Style your hair image <a href="https://pixabay.com/photos/hair-marriage-bride-woman-whites-2089548/" target="_blank">(syle-img.jpg)</a>
-3. Color your hair<a href="https://pixabay.com/photos/pink-hair-hairstyle-women-young-1450045/" target="_blank"> (color-img.jpg)</a>
-4. Treat your hair<a href="https://pixabay.com/photos/girl-woman-model-brunette-924868/" target="_blank"> (treat-img.jpg)</a>
-5. Style your hair icon<a href="https://freesvg.org/scissors-cut-hair" target="_blank"> (style-icon-img.png)</a>
-6. Color your hair icon<a href="https://www.needpix.com/photo/download/595920/blood-paint-splat-stain-free-vector-graphics-free-pictures-free-photos-free-images-royalty-free" target="_blank"> (color-icon-img.png)</a>
-7. Treat your hair icon<a href="https://svgsilh.com/image/38673.htm" target="_blank"> (treat-icon-img.png)</a>
-8. Team image, Remi<a href="https://pixabay.com/photos/woman-portrait-headshot-female-4525646/" target="_blank"> (Remi.png)</a>
-9. Team image, Olga<a href="https://pixabay.com/photos/business-woman-person-young-female-2180509/" target="_blank"> (Olga.png)</a>
-10. Team image, Harry<a href="https://unsplash.com/photos/cCvnG-937HE" target="_blank"> (Harry.png)</a>
-11. Image gallery 01<a href="https://unsplash.com/photos/yq2zyWLzaR0" target="_blank"> (Gal-01.jpg)</a>
-12. Image gallery 02<a href="https://unsplash.com/photos/A8WIBd73a6E" target="_blank"> (Gal-02.jpg)</a>
-13. Image gallery 03<a href="https://unsplash.com/photos/N57BXCt7LDU" target="_blank"> (Gal-03.jpg)</a>
-14. Image gallery 04<a href="https://unsplash.com/photos/lMMdMdsFP-c" target="_blank"> (Gal-04.jpg)</a>
-15. Image gallery 05<a href="https://unsplash.com/photos/W6cwaL7PMSw" target="_blank"> (Gal-05.jpg)</a>
-16. Image gallery 06<a href="https://unsplash.com/photos/J7Cf1Gch49E" target="_blank"> (Gal-06.jpg)</a>
-17. Image gallery 07<a href="https://unsplash.com/photos/tLKOj6cNwe0" target="_blank"> (Gal-07.jpg)</a>
-18. Image gallery 08<a href="https://unsplash.com/photos/ORCPTrkkezw" target="_blank"> (Gal-08.jpg)</a>
-19. Image gallery 09<a href="https://unsplash.com/photos/pZTVa_Gt1f8" target="_blank"> (Gal-09.jpg)</a>
-
-
-
+1. Callout background image [(callout-background-img.jpg)](https://www.goodfon.com/wallpaper/stylist-fingers-hairdresser-comb-scissors.html)
+2. Style your hair [(syle-img.jpg)](https://pixabay.com/photos/hair-marriage-bride-woman-whites-2089548/)
+3. Color your hair [(color-img.jpg)](https://pixabay.com/photos/pink-hair-hairstyle-women-young-1450045/)
+4. Treat your hair [(treat-img.jpg)](https://pixabay.com/photos/girl-woman-model-brunette-924868/)
+5. Style your hair icon [(style-icon-img.png)](https://freesvg.org/scissors-cut-hair)
+6. Color your hair icon [(color-icon-img.png)](https://www.needpix.com/photo/download/595920/blood-paint-splat-stain-free-vector-graphics-free-pictures-free-photos-free-images-royalty-free)
+7. Treat your hair icon [(treat-icon-img.png)](https://svgsilh.com/image/38673.html)
+8. Team image [(Remi.png)](https://pixabay.com/photos/woman-portrait-headshot-female-4525646/)
+9. Team image [(Olga.png)](https://pixabay.com/photos/business-woman-person-young-female-2180509/)
+10. Team image [(Harry.png)](https://unsplash.com/photos/cCvnG-937HE)
+11. Image gallery [(Gal-01.jpg)](https://unsplash.com/photos/yq2zyWLzaR0)
+12. Image gallery [(Gal-02.jpg)](https://unsplash.com/photos/A8WIBd73a6E)
+13. Image gallery [(Gal-03.jpg)](https://unsplash.com/photos/N57BXCt7LDU)
+14. Image gallery [(Gal-04.jpg)](https://unsplash.com/photos/lMMdMdsFP-c)
+15. Image gallery [(Gal-05.jpg)](https://unsplash.com/photos/W6cwaL7PMSw)
+16. Image gallery [(Gal-06.jpg)](https://unsplash.com/photos/J7Cf1Gch49E)
+17. Image gallery [(Gal-07.jpg)](https://unsplash.com/photos/tLKOj6cNwe0)
+18. Image gallery [(Gal-08.jpg)](https://unsplash.com/photos/ORCPTrkkezw)
+19. Image gallery [(Gal-09.jpg)](https://unsplash.com/photos/pZTVa_Gt1f8)
 
 
 ## Acknowledgements
