@@ -239,7 +239,14 @@ body {
 
   .service-inline-image {
     display: block;
+    width: 100%;
+    height: auto;
     margin: 25px auto;
+  }
+
+  .service-inline-image-small{
+     width: 80%;
+    height: auto; 
   }
 }
 
@@ -250,6 +257,8 @@ body {
   display: block;
   margin: 0 auto;
   background-color: #96a1ad;
+  width: 40%;
+  height: auto;
 }
 
 .team-info {
@@ -354,7 +363,7 @@ body {
 
 .map-contact a::before {
   font-family: "FontAwesome";
-  content: attr(data-fa-icon);
+  content: "\f276";
   color: rgb(0, 0, 0);
   display: block;
   position: absolute;
