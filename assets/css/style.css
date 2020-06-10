@@ -217,6 +217,10 @@ body {
   margin-top: 15px;
 }
 
+.service-inline-image-small{
+    width: 100%;
+}
+
 @media (max-width: 992px) {
   .main-section {
     text-align: justify;
@@ -240,14 +244,10 @@ body {
   .service-inline-image {
     display: block;
     width: 100%;
-    height: auto;
     margin: 25px auto;
   }
 
-  .service-inline-image-small{
-     width: 80%;
-    height: auto; 
-  }
+  
 }
 
 /* -------------------------------------------------------------------- Team */
