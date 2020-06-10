@@ -80,6 +80,23 @@ The following technologies have been used in this project:
 
 ## Testing
 
+The website validated with Markup Validation Service W3C® without any major problem. 
+There was some issue with having “%” size for img attribute in HTML and the commenting format in HTML which were resolved. 
+There was no problem regarding CSS validating.
+
+Testing was performed using CrossBrowserTesting website, in Chrome, Firefox, IE, Edge, Opera, Safari and two mobile phone screen size. 
+The results are summarized in pdf file for each section of the website as following:
+
+- Home page [home](assets/images/tesing/home.pdf)
+- Service pages:
+    - Style your hair
+    - color your hair
+    - treat your hair
+- Team page
+- Gallery page
+- Contact info page
+
+
 ## Deployment
 
 ## Credits
