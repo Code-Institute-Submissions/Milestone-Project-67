@@ -103,7 +103,8 @@ in the home page and a callout message “We are engaged to our profession” wh
 the hair salon to their work and in the image, the hand has an engagement ring to give 
 the similar idea as it is shown in the following picture:
 
-![]()
+![pic](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/story_home_page.png)
+
 
 Also, one of the aims was to encourage new customers. 
 This was tried to achieve with giving a 20% discount for the first visit of the hair salon in the [home page](https://majpaji.github.io/Milestone-Project-1/index.html).
