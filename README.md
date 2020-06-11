@@ -28,7 +28,11 @@ It will provide good contact information and how to get to the place.
 * My partner, she is a saying, she wants to see how the hairdresser looks like. 
   This can be achieved with a good presentation of the team.
 * As a new customer, I would like to see the previous results of their work. 
-  This can be achieved with an image gallery or reviews from the regular customers
+  This can be achieved with an image gallery or reviews from the regular customers.
+
+The wireframe for the hair salon in web version (high resolution) can be find in the following [link]().
+
+The wireframe for the hair salon in mobile version (low resolution) can be find in the following [link]().
 
 ## Features
 
@@ -80,21 +84,24 @@ The following technologies have been used in this project:
 
 ## Testing
 
+Testing of the website on different browsers was performed using CrossBrowserTesting website. 
+The test run for Chrome, Firefox, IE, Edge, Opera, Safari and two mobile phone screen sizes. 
+The results are summarized in pdf files for each section of the website as following: 
+
+- Home page [(index.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/home.pdf)
+- Service pages:
+    - Style your hair page [(style-your-hair.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/services_style_your_hair.pdf)
+    - color your hair page [(color-your-hair.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/services_color_your_hair.pdf)
+    - treat your hair page [(treat-your-hair.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/services_treat_your_hair.pdf)
+- Team page [(team.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/team.pdf)
+- Gallery page [(gallery.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/gallery.pdf)
+- Contact info page [(contact-us.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/contact_us.pdf)
+
 The website validated with Markup Validation Service W3C® without any major problem. 
 There was some issue with having “%” size for img attribute in HTML and the commenting format in HTML which were resolved. 
 There was no problem regarding CSS validating.
 
-Testing was performed using CrossBrowserTesting website, in Chrome, Firefox, IE, Edge, Opera, Safari and two mobile phone screen size. 
-The results are summarized in pdf file for each section of the website as following:
 
-- Home page [home](assets/images/tesing/home.pdf)
-- Service pages:
-    - Style your hair
-    - color your hair
-    - treat your hair
-- Team page
-- Gallery page
-- Contact info page
 
 
 ## Deployment
