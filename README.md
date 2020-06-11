@@ -80,21 +80,47 @@ The following technologies have been used in this project:
 
 ## Testing
 
+Testing of the website on different browsers was performed using CrossBrowserTesting website. 
+The test run for Chrome, Firefox, IE, Edge, Opera, Safari and two mobile phone screen sizes. 
+The results are summarized in pdf files for each section of the website as following: 
+
+- Home page [(index.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/home.pdf)
+- Service pages:
+    - Style your hair page [(style-your-hair.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/services_style_your_hair.pdf)
+    - color your hair page [(color-your-hair.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/services_color_your_hair.pdf)
+    - treat your hair page [(treat-your-hair.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/services_treat_your_hair.pdf)
+- Team page [(team.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/team.pdf)
+- Gallery page [(gallery.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/gallery.pdf)
+- Contact info page [(contact-us.html)](https://github.com/MajPaji/Milestone-Project-1/blob/master/testing/contact_us.pdf)
+
 The website validated with Markup Validation Service W3C® without any major problem. 
 There was some issue with having “%” size for img attribute in HTML and the commenting format in HTML which were resolved. 
 There was no problem regarding CSS validating.
 
-Testing was performed using CrossBrowserTesting website, in Chrome, Firefox, IE, Edge, Opera, Safari and two mobile phone screen size. 
-The results are summarized in pdf file for each section of the website as following:
+The main aim of this project was to present the hair salon as a professional work environment. 
+This was tried to achieve with giving a full-size background image that shows skillful hairdresser hands 
+in the home page and a callout message “We are engaged to our profession” which indicate the commitment of 
+the hair salon to their work and in the image, the hand has an engagement ring to give 
+the similar idea as it is shown in the following picture:
 
-- Home page [home](assets/images/tesing/home.pdf)
-- Service pages:
-    - Style your hair
-    - color your hair
-    - treat your hair
-- Team page
-- Gallery page
-- Contact info page
+![]()
+
+Also, one of the aims was to encourage new customers. 
+This was tried to achieve with giving a 20% discount for the first visit of the hair salon in the [home page](https://majpaji.github.io/Milestone-Project-1/index.html).
+
+The introduction of the different services was presented in summary with self-explanatory icons on the [home page](https://majpaji.github.io/Milestone-Project-1/index.html) which can link to separate pages. 
+In the individual service pages, services were introduced with a paragraph and pictures for the [style](https://majpaji.github.io/Milestone-Project-1/style-your-hair.html), 
+[color](https://majpaji.github.io/Milestone-Project-1/color-your-hair.html) and [treat](https://majpaji.github.io/Milestone-Project-1/treat-your-hair.html) your hair, respectively.
+
+In the [team](https://majpaji.github.io/Milestone-Project-1/team.html) webpage section, it was tried to introduce hair salon teammate characters in the way which can give friendly feeling to the visitors 
+to see how they look like and the other languages that they could speak (required from the UX story). 
+Also, adding some explanations about their skills and quotes from each one.
+
+The [gallery](https://majpaji.github.io/Milestone-Project-1/gallery.html) webpage provided a few examples of the previous works of the hair salon (required from the UX story).
+
+The [contact us](https://majpaji.github.io/Milestone-Project-1/contact-us.html) webpage provides a form area in which people can give their comments and remarks. 
+Also, the important contact information was including working hours, telephone numbers, and visiting address.
+
 
 
 ## Deployment
