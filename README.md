@@ -30,9 +30,9 @@ It will provide good contact information and how to get to the place.
 * As a new customer, I would like to see the previous results of their work. 
   This can be achieved with an image gallery or reviews from the regular customers.
 
-The wireframe for the hair salon in web version (high resolution) can be find in the following [link]().
+The wireframe for the hair salon in web version (high resolution) can be find in the following  [link]().
 
-The wireframe for the hair salon in mobile version (low resolution) can be find in the following [link]().
+The wireframe for the hair salon in mobile version (low resolution) can be find in the following  [link]().
 
 ## Features
 
