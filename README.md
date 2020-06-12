@@ -30,9 +30,9 @@ It will provide good contact information and how to get to the place.
 * As a new customer, I would like to see the previous results of their work. 
   This can be achieved with an image gallery or reviews from the regular customers.
 
-The wireframe for the hair salon in web version (high resolution) can be find in the following  [link]().
+The wireframe for the hair salon in web version (high resolution) can be find in the following  [link](https://github.com/MajPaji/Milestone-Project-1/blob/master/wireframes/hair_salon_wirefram_web.pdf).
 
-The wireframe for the hair salon in mobile version (low resolution) can be find in the following  [link]().
+The wireframe for the hair salon in mobile version (low resolution) can be find in the following  [link](https://github.com/MajPaji/Milestone-Project-1/blob/master/wireframes/hair_salon_wireframe_mobile.pdf).
 
 ## Features
 
@@ -99,10 +99,8 @@ The results are summarized in pdf files for each section of the website as follo
 
 The website validated with Markup Validation Service W3C® without any major problem. 
 There was some issue with having “%” size for img attribute in HTML and the commenting format in HTML which were resolved. 
-There was no problem regarding CSS validating.
+There was no problem regarding CSS validation.
 
-<<<<<<< HEAD
-=======
 The main aim of this project was to present the hair salon as a professional work environment. 
 This was tried to achieve with giving a full-size background image that shows skillful hairdresser hands 
 in the home page and a callout message “We are engaged to our profession” which indicate the commitment of 
@@ -127,13 +125,26 @@ The [gallery](https://majpaji.github.io/Milestone-Project-1/gallery.html) webpag
 
 The [contact us](https://majpaji.github.io/Milestone-Project-1/contact-us.html) webpage provides a form area in which people can give their comments and remarks. 
 Also, the important contact information was including working hours, telephone numbers, and visiting address.
->>>>>>> 08503b394d10ca81648073809ae97894557b6ca4
 
 
 
 ## Deployment
 
-## Credits
+This project was coded in Gitpod editor and published in GitHub pages. To deploy this work, follow the steps bellow:
+
+1.	Go to github.com and click on the repository MajPaji/Milestone-Project-1
+2.	Click on the “setting”, on top right of the page
+3.	Scroll down to “GitHub pages”
+4.	Under “source”, click on the dropdown menu and select “Master Branch”
+5.	Click on the link provided on “GitHub pages”
+
+To run the website on your local device, follow the steps below:
+1.	Go to the repository MajPaji/Milestone-Project-1.
+2.	Click on “clone or download”.
+3.	Click on ”download zip”.
+4.	Unzip the downloaded zip file.
+5.	Run the file “index.html”.
+6.	The website will open in the default browser of your device.
 
 ## Content
 
